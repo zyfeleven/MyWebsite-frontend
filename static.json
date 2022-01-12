@@ -5,7 +5,7 @@
     },
     "proxies":{
         "/api": {
-            "origin": "http://https://mywebsite-server-es.herokuapp.com/"
+            "origin": "http://https://mywebsite-server-es.herokuapp.com/api"
         }
     }
 }
